@@ -7,8 +7,8 @@ A browser-based receipt scanner and expense tracker. Upload a photo, extract the
 Install [Node.js](https://nodejs.org/) 20.19+ or 22.12+, then open this folder in VS Code. In its terminal:
 
 ```bash
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 
 Open the local URL shown in the terminal. Run `npm run build` to check the production build.
